@@ -1,0 +1,67 @@
+# דפוס הדר — Generative Engine Optimization Map
+
+> A modern and visually appealing print house business seeking a professional landing page. The brand aims to convey creativity, quality, and professionalism in the printing industry, with a contemporary and attractive aesthetic.
+
+---
+
+## Pages
+
+### בית
+https://-cd7f026f.zappy5.app
+A modern and visually appealing print house business seeking a professional landing page. The brand aims to convey creativity, quality, and professionalism in t
+
+## Legal & Policy
+
+### Privacy Policy
+https://-cd7f026f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-cd7f026f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-cd7f026f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-cd7f026f.zappy5.app
+- Endpoint: https://-cd7f026f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About דפוס הדר
+A modern and visually appealing print house business seeking a professional landing page. The brand aims to convey creativity, quality, and professionalism in the printing industry, with a contemporary and attractive aesthetic.
+
+## Target Audience
+- בעלי עסקים קטנים
+- מוסדות חינוך
+- בעלי עסקים גדולים
+- אנשים פרטיים
+
+## Industry
+הדפסה ודפוס
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-cd7f026f.zappy5.app/sitemap.xml
+- Robots: https://-cd7f026f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-cd7f026f.zappy5.app/llms-full.txt
