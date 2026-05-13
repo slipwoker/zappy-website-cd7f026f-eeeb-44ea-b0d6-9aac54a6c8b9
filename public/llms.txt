@@ -28,7 +28,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: 0747016464d@gmail.com
+- Phone: 074-7016464
+- Phone (tel): tel:0747016464
+- Address: יונתן בן עוזיאל 17, אלעד, 4082017, ישראל
 
 ### Contact form
 - URL: https://example.com
