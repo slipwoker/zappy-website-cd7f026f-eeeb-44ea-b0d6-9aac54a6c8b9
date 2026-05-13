@@ -2,13 +2,13 @@
 
 A modern and visually appealing print house business seeking a professional landing page. The brand aims to convey creativity, quality, and professionalism in the printing industry, with a contemporary and attractive aesthetic.
 
-Source: https://example.com
+Source: https://dfus-hadar.zappy5.app
 
 ---
 
 ## דפוס הדר — דפוס הדר
 
-URL: https://example.com
+URL: https://dfus-hadar.zappy5.app
 Description: A modern and visually appealing print house business seeking a professional landing page. The brand aims to convey creativity, quality, and professionalism in t
 
 דפוס הדר — דפוס הדר
@@ -681,7 +681,7 @@ C  M  Y  K
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://dfus-hadar.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -882,7 +882,7 @@ C  M  Y  K
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://dfus-hadar.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1092,7 +1092,7 @@ C  M  Y  K
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://dfus-hadar.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://example.com
+https://dfus-hadar.zappy5.app
 A modern and visually appealing print house business seeking a professional landing page. The brand aims to convey creativity, quality, and professionalism in t
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://dfus-hadar.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://dfus-hadar.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://dfus-hadar.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -34,8 +34,8 @@ Information about WCAG compliance and accessibility features.
 - Address: יונתן בן עוזיאל 17, אלעד, ישראל, 4082017, ישראל
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://dfus-hadar.zappy5.app
+- Endpoint: https://dfus-hadar.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -65,6 +65,6 @@ A modern and visually appealing print house business seeking a professional land
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://dfus-hadar.zappy5.app/sitemap.xml
+- Robots: https://dfus-hadar.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://dfus-hadar.zappy5.app/llms-full.txt
