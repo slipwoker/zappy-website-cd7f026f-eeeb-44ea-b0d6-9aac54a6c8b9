@@ -2,13 +2,13 @@
 
 A modern and visually appealing print house business seeking a professional landing page. The brand aims to convey creativity, quality, and professionalism in the printing industry, with a contemporary and attractive aesthetic.
 
-Source: https://-cd7f026f.zappy5.app
+Source: https://example.com
 
 ---
 
 ## דפוס הדר — דפוס הדר
 
-URL: https://-cd7f026f.zappy5.app
+URL: https://example.com
 Description: A modern and visually appealing print house business seeking a professional landing page. The brand aims to convey creativity, quality, and professionalism in t
 
 דפוס הדר — דפוס הדר
@@ -675,7 +675,7 @@ C  M  Y  K
 
 ## מדיניות פרטיות
 
-URL: https://-cd7f026f.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -876,7 +876,7 @@ C  M  Y  K
 
 ## הצהרת נגישות
 
-URL: https://-cd7f026f.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1086,7 +1086,7 @@ C  M  Y  K
 
 ## תנאי שימוש
 
-URL: https://-cd7f026f.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
